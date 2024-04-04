@@ -1,5 +1,6 @@
 #container{
-    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: cadetblue;
 }
 
 #fejlec{
@@ -16,5 +17,9 @@
 
 #kepek{
     margin: 15px;
+}
+
+#lablec{
+    text-align: center;
 }
 
