@@ -1,5 +1,5 @@
 #container{
-    display: flex;
+    
 }
 
 #fejlec{
@@ -7,6 +7,10 @@
     font-family: Arial, Helvetica, sans-serif;
     font-style: italic;
     text-align: center;
+}
+
+#oszekoto{
+    display: flex;
 }
 
 #content1{
