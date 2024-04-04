@@ -11,12 +11,12 @@
 
 #oszekoto{
     display: flex;
+    margin: auto;
 }
 
-#content1{
-margin: auto;
-}
-
-#content2{
+#kepek{
+    display: flex;
+    max-width: 50%;
 
 }
+
